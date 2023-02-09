@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvin-xavier&label=Profile%20views&color=0e75b6&style=flat" alt="alvin-xavier" /> </p>
 
-- 🌀 I Am Currently Working On . **Improving My Hacking Skills**
+- 🌀 I Am Currently Working On . **Improving My Hacking Skills.**
 
-- 🌀 I AM Currently Learning. **Reverse Engineering And Python**
+- 🌀 I AM Currently Learning. **Reverse Engineering And Python.**
 
-- 🌀 Ask Me About. **Website Vulnerabilities, system Vulnerabilities And Cyber Crimes**
+- 🌀 Ask Me About. **Website Vulnerabilities, system Vulnerabilities And Cyber Crimes.**
 
 - 🌀 How To Reach Me. **alvinwaseem@gmail.com**
 
-- 🌀 Fun Fact. **I Watch Doraemon Everyday**
+- 🌀 Fun Fact. **I Watch Doraemon Everyday.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
