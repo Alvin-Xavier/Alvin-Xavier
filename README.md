@@ -14,6 +14,8 @@
 
 - 🌀 Fun Fact. **I Watch Doraemon Everyday.**
 
+- 🌀 Whatsapp Number. **+92304333782**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alvin waseem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvin waseem" height="30" width="40" /></a>
