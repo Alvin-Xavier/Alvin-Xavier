@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm Alvin Waseem</h1>
 <h3 align="center">A Passionate Ethical Hacker From Pakistan 🌀</h3>
-<img align="right" width=400 alt="coding" src="https://media2.giphy.com/media/3o6fJ9uxj9z5XOfxD2/giphy.gif?cid=ecf05e47avrjizznm571ufjqg43qgezisojnjp96zeqzribs&rid=giphy.gif&ct=g">
+<img align="right" width=600 alt="coding" src="https://media2.giphy.com/media/3o6fJ9uxj9z5XOfxD2/giphy.gif?cid=ecf05e47avrjizznm571ufjqg43qgezisojnjp96zeqzribs&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvin-xavier&label=Profile%20views&color=0e75b6&style=flat" alt="alvin-xavier" /> </p>
 
