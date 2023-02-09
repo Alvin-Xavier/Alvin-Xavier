@@ -16,7 +16,6 @@
 
 - 🌀 Fun Fact. **I Watch Doraemon Everyday**
 
-- 🌀 All Of My Projects Available At. **https://giphy.com/gifs/art-fashion-90s-3o6fJ9uxj9z5XOfxD2**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
