@@ -1,10 +1,8 @@
 <h1 align="center">Hi I'm Alvin Waseem</h1>
 <h3 align="center">A Passionate Ethical Hacker From Pakistan 🌀</h3>
-<img align="right" width=400x400 alt="coding" src="https://media2.giphy.com/media/3o6fJ9uxj9z5XOfxD2/giphy.gif?cid=ecf05e47avrjizznm571ufjqg43qgezisojnjp96zeqzribs&rid=giphy.gif&ct=g">
+<img align="right" width=400 alt="coding" src="https://media2.giphy.com/media/3o6fJ9uxj9z5XOfxD2/giphy.gif?cid=ecf05e47avrjizznm571ufjqg43qgezisojnjp96zeqzribs&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvin-xavier&label=Profile%20views&color=0e75b6&style=flat" alt="alvin-xavier" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alvin-xavier" alt="alvin-xavier" /></a> </p>
 
 - 🌀 I Am Currently Working On . **Improving My Hacking Skills**
 
@@ -15,7 +13,6 @@
 - 🌀 How To Reach Me. **alvinwaseem@gmail.com**
 
 - 🌀 Fun Fact. **I Watch Doraemon Everyday**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alvin-xavier&show_icons=true&locale=en" alt="alvin-xavier" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alvin-xavier&" alt="alvin-xavier" /></p>
+
