@@ -1,20 +1,18 @@
 <h1 align="center">Hi I'm Alvin Waseem</h1>
-<h3 align="center">🌀 A Passionate Ethical Hacker From Pakistan 🌀</h3>
-<img align="right" width=400 alt="coding" src="https://media2.giphy.com/media/3o6fJ9uxj9z5XOfxD2/giphy.gif?cid=ecf05e47avrjizznm571ufjqg43qgezisojnjp96zeqzribs&rid=giphy.gif&ct=g">
+<h3 align="center">A Passionate Ethical Hacker From Pakistan 🌀</h3>
+<img align="right" width=400 alt="coding" src="https://media0.giphy.com/media/3o6fJ9uxj9z5XOfxD2/giphy.gif?cid=ecf05e47u1xlfvzj3cary6v2rne8ho0c3e8c108t9gmz90aw&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvin-xavier&label=Profile%20views&color=0e75b6&style=flat" alt="alvin-xavier" /> </p>
 
-- 🌀 I Am Currently Working On . **Improving My Skill Sets.**
+- 🌀 I Am Currently Working On . **Improving My Hacking Skills**
 
-- 🌀 I AM Currently Learning. **Reverse Engineering And Python.**
+- 🌀 I AM Currently Learning. **Reverse Engineering And Python**
 
-- 🌀 Ask Me About. **Website Vulnerabilities, system Vulnerabilities And Cyber Crimes.**
+- 🌀 Ask Me About. **Website Vulnerabilities, system Vulnerabilities And Cyber Crimes**
 
 - 🌀 How To Reach Me. **alvinwaseem@gmail.com**
 
-- 🌀 Fun Fact. **I Watch Doraemon Everyday.**
-
-- 🌀 Whatsapp Number. **+923104333782**
+- 🌀 Fun Fact. **I Watch Doraemon Everyday**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,4 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alvin-xavier&show_icons=true&locale=en" alt="alvin-xavier" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alvin-xavier&" alt="alvin-xavier" /></p>
-
